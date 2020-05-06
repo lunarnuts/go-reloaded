@@ -1,2 +1,3 @@
-# go_reloaded
-Go-reloaded task ty Alem.School
+# go-reloaded
+
+My repo for Div-01/go-reloaded @Alem.School
